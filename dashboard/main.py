@@ -108,5 +108,5 @@ ax.tick_params(axis="y", labelsize=15)
 st.pyplot(fig)
 
 if __name__ == "__main__":
-    copyright = "Copyright © " + "2023 | Bike Sharing Dashboard | All Rights Reserved | " + "Made by: [Dian Rizqi Saputra]"
+    copyright = "Copyright © " + "2023 | Bike Sharing Dashboard | All Rights Reserved"
     st.caption(copyright)
