@@ -1,7 +1,8 @@
 # Proyek Analisis Data: Bike Sharing 
 
 ## Preview
-![Preview Dashboard Streamlit](https://github.com/dinarrahman30/Belajar-Analisis-Data-dengan-Python/assets/68122380/4e926b3d-3f1e-4308-8f0b-42d6396a7842)
+![tampilan-dasboard](https://github.com/dianrizqisaputra/bike-sharing/assets/91761759/35d8599f-c54e-4307-8360-4b85c2c60518)
+
 
 
 ## Project installation to personal virtual environment
@@ -9,7 +10,7 @@ The steps to create your virtual environment from this project is as follows:
 
 1. Clone this repository
    ```
-   git clone https://github.com/dinarrahman30/Belajar-Analisis-Data-dengan-Python.git
+   git clone https://github.com/dianrizqisaputra/bike-sharing.git
    ```
 
 2. Move to directory Belajar-Analisis-Data-dengan-Python
